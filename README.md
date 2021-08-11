@@ -1,2 +1,2 @@
 # Income-Category-Classification
-Predicting income category given different parameters from the US Census Data
+Using Python Libraries (pandas & sklearn) to predict income category given different parameters from the US Census Data 
